@@ -1,0 +1,29 @@
+{
+  "name": "simple-email-form-with-cancellation",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": ["react-final-form", "final-form", "redux-saga", "unit-test"],
+  "homepage": "https://codesandbox.io/s/new",
+  "main": "src/index.js",
+  "dependencies": {
+    "enzyme": "3.3.0",
+    "enzyme-adapter-react-16": "1.1.1",
+    "final-form": "latest",
+    "react": "16.3.2",
+    "react-dom": "16.3.2",
+    "react-final-form": "3.4.0",
+    "react-redux": "5.0.7",
+    "redux": "3.7.2",
+    "redux-actions": "2.3.2",
+    "redux-saga": "0.16.0",
+    "redux-saga-test-plan": "3.6.0",
+    "validator": "10.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
