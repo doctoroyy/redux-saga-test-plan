@@ -1,2 +1,2 @@
-# redux-saga-test-plane
+# redux-saga-test-plan
 Created with CodeSandbox
